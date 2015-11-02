@@ -1,0 +1,16 @@
+c:\users\student\documents\visual studio 2012\Projects\Lab01\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lab01\Lab01\bin\Debug\Lab01.exe
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lab01\Lab01\bin\Debug\Lab01.pdb
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lab01\Lab01\bin\Debug\EntityFramework.dll
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lab01\Lab01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lab01\Lab01\bin\Debug\EntityFramework.xml
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lab01\Lab01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lab01\Lab01\obj\Debug\Lab01.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lab01\Lab01\obj\Debug\Lab01.exe
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lab01\Lab01\obj\Debug\Lab01.pdb
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lab01\Lab01\obj\Debug\Lab01.Migrations.InitialCreate.resources
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lab01\Lab01\obj\Debug\Lab01.csproj.GenerateResource.Cache
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lab01\Lab01\obj\Debug\Lab01.Migrations.AddUrl.resources
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lab01\Lab01\obj\Debug\Lab01.Migrations.AddUsers.resources
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lab01\Lab01\obj\Debug\Lab01.Migrations.AddUsers2.resources
+C:\Users\student\Documents\Visual Studio 2012\Projects\Lab01\Lab01\obj\Debug\Lab01.BlogForm.resources
