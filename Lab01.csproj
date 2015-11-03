@@ -58,6 +58,12 @@
     <Compile Include="BlogForm.Designer.cs">
       <DependentUpon>BlogForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="AddPostForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPostForm.Designer.cs">
+      <DependentUpon>AddPostForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\201511011529093_InitialCreate.cs" />
     <Compile Include="Migrations\201511011529093_InitialCreate.Designer.cs">
       <DependentUpon>201511011529093_InitialCreate.cs</DependentUpon>
@@ -86,6 +92,9 @@
     <None Include="Properties\DataSources\Blog.datasource" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="AddPostForm.resx">
+      <DependentUpon>AddPostForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="BlogForm.resx">
       <DependentUpon>BlogForm.cs</DependentUpon>
     </EmbeddedResource>

@@ -24,9 +24,9 @@ namespace Lab01
         {
             bContext = new BlogContext();
             bContext.Blogs.Load();
-            //bContext.Posts.Where(post=>post.BlogId == 3).Load();
+            bContext.Posts.Load();
             this.blogBindingSource.DataSource = bContext.Blogs.Local.ToBindingList();
-            //this.postsBindingSource.DataSource = bContext.Posts.Local.ToBindingList();
+            this.postsBindingSource.DataSource = bContext.Posts.Local.ToBindingList();
         }
 
         private void blogDataGridView_CellContentClick(object sender, DataGridViewCellEventArgs e)
@@ -81,6 +81,17 @@ namespace Lab01
                 this.postsBindingSource.DataSource = bContext.Posts.Local.ToBindingList();
             }
             
+        }
+
+        private void toolStripButton1_Click(object sender, EventArgs e)
+        {
+   
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            AddPostForm form = new AddPostForm();
+            form.ShowDialog();
         }
 
        

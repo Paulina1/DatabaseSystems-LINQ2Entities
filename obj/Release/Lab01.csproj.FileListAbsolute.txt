@@ -1,0 +1,17 @@
+F:\DatabaseSystems-LINQ2Entities\bin\Release\Lab01.exe.config
+F:\DatabaseSystems-LINQ2Entities\obj\Release\Lab01.csprojResolveAssemblyReference.cache
+F:\DatabaseSystems-LINQ2Entities\obj\Release\Lab01.BlogForm.resources
+F:\DatabaseSystems-LINQ2Entities\obj\Release\Lab01.Migrations.InitialCreate.resources
+F:\DatabaseSystems-LINQ2Entities\obj\Release\Lab01.Migrations.AddUrl.resources
+F:\DatabaseSystems-LINQ2Entities\obj\Release\Lab01.Migrations.AddUsers.resources
+F:\DatabaseSystems-LINQ2Entities\obj\Release\Lab01.Migrations.AddUsers2.resources
+F:\DatabaseSystems-LINQ2Entities\obj\Release\Lab01.csproj.GenerateResource.Cache
+E:\DatabaseSystems-LINQ2Entities\bin\Release\Lab01.exe.config
+E:\DatabaseSystems-LINQ2Entities\obj\Release\Lab01.csprojResolveAssemblyReference.cache
+E:\DatabaseSystems-LINQ2Entities\obj\Release\Lab01.AddPostForm.resources
+E:\DatabaseSystems-LINQ2Entities\obj\Release\Lab01.BlogForm.resources
+E:\DatabaseSystems-LINQ2Entities\obj\Release\Lab01.Migrations.InitialCreate.resources
+E:\DatabaseSystems-LINQ2Entities\obj\Release\Lab01.Migrations.AddUrl.resources
+E:\DatabaseSystems-LINQ2Entities\obj\Release\Lab01.Migrations.AddUsers.resources
+E:\DatabaseSystems-LINQ2Entities\obj\Release\Lab01.Migrations.AddUsers2.resources
+E:\DatabaseSystems-LINQ2Entities\obj\Release\Lab01.csproj.GenerateResource.Cache
