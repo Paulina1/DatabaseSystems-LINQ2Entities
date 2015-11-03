@@ -39,8 +39,8 @@ namespace Lab01
             int blogId;
 
             //check validation
-            using (var bContext = new BlogContext())    {
-                blogId = (from b in bContext.Blogs where b.Name == selectedBlog select b.BlogId).FirstOrDefault();
+            using (var ctx = new BlogContext())    {
+                blogId = (from b in ctx.Blogs where b.Name == selectedBlog select b.BlogId).FirstOrDefault();
                 if (blogId == 0)    {
                     MessageBox.Show("You've not selected any blogs.");
                     return;
@@ -59,9 +59,9 @@ namespace Lab01
             post.Content = richTextBox1.Text;
             post.Title = textBox1.Text;
             //add and save post
-            using (var bContext = new BlogContext())    {
-                bContext.Posts.Add(post);
-                bContext.SaveChanges();
+            using (var ctx = new BlogContext())    {
+                ctx.Posts.Add(post);
+                ctx.SaveChanges();
             }
             Hide();
             DestroyHandle();
