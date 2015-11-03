@@ -64,6 +64,12 @@
     <Compile Include="AddPostForm.Designer.cs">
       <DependentUpon>AddPostForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="StatisticsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StatisticsForm.Designer.cs">
+      <DependentUpon>StatisticsForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\201511011529093_InitialCreate.cs" />
     <Compile Include="Migrations\201511011529093_InitialCreate.Designer.cs">
       <DependentUpon>201511011529093_InitialCreate.cs</DependentUpon>
@@ -97,6 +103,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="BlogForm.resx">
       <DependentUpon>BlogForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StatisticsForm.resx">
+      <DependentUpon>StatisticsForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201511011529093_InitialCreate.resx">
       <DependentUpon>201511011529093_InitialCreate.cs</DependentUpon>

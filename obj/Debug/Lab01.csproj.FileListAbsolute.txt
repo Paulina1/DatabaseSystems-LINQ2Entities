@@ -44,3 +44,4 @@ E:\DatabaseSystems-LINQ2Entities\bin\Debug\Lab01.exe
 E:\DatabaseSystems-LINQ2Entities\bin\Debug\Lab01.pdb
 E:\DatabaseSystems-LINQ2Entities\bin\Debug\EntityFramework.xml
 E:\DatabaseSystems-LINQ2Entities\bin\Debug\EntityFramework.SqlServer.xml
+E:\DatabaseSystems-LINQ2Entities\obj\Debug\Lab01.StatisticsForm.resources

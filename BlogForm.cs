@@ -94,6 +94,12 @@ namespace Lab01
             form.ShowDialog();
         }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            StatisticsForm form = new StatisticsForm();
+            form.ShowDialog();
+        }
+
        
 
     }
